@@ -24,4 +24,11 @@ git branch --merged {untuk melihat branch yang telah di gabung/marge}
 git marge (nama branch) {maka akan ada commit di vscode di exit saja}
 git branch -D (namabranch) {menggunakan D besar untuk menghapus branch/cabang yang belum di gabung}
 >>>>>>. untuk memasukkan git ke github
+membuat repository di github terlebih dahulu untuk mendapat alamat wbsite
+git remote {untuk mengecek apakah sudah ada yang di ramote}
+git remote add origin/bebas (alamat repository menggunakan https) {untuk menghubungkan git dengan github}
+git remote -v {untuk mengecek alamat repo}
+git push -u origin master {awal untuk memasukkan file kita ke github}
+git push {setalah git sudah masuk github dan menambahkan editan atau tambahan yang sudah kita buat baru}
+
 
