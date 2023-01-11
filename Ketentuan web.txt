@@ -1,0 +1,36 @@
+    1. membuat web tentang protofolio diri
+2. web berisikan code html , css dan java script 
+3. web akan terhubung ke github
+4. web mempunyai sistem login 
+5. web mempunya sistem home , beranda 
+6. untuk mempermudah web menggunkakan tools
+alt + z untuk word wrap
+ctrl + p = > (untuk mencari shortcut tombol)
+ctrl + / toogle comment biar cepet memberi comment
+ctrl+, untuk setting
+>keyboard shortcut
+
+<div class="card">
+                     <p>saya merupakakn lulusan S1 teknik elektro.
+                         mempunyai pengalaman 2 tahun sebagai staff project
+                         dan teknisi . saya merupakan orang yang pekerja keras 
+                         dan selalu ingin belajar
+                     </p>
+                    </div>
+ctrl + k +s
+open terminal ctrl + ` / ctrl + j
+home  / end untuk pindah
+ctrl + enter untuk langsung ke bawah 
+alt + atas atau bawah (untuk geser teks keatas dan kebawah)
+alt+shift+atas ( menduplikan ke atas /bawah)
+ctrl + shift k ( menghapus satu baris )
+block+ tab / shift+tab ( untuk geser kekiri dan kekannan teks)
+blokc+ ctrl + / (untuk memberi komentar )
+ctrl+L untuk menseleksi baris
+ctrl + d untuk menseleksi/block kata 
+ctrl + d lebih dari sekali untuk menseleksi kata yang sama lebih dari satu
+ctrl + shift + L (untuk menseleksi kata semuanya)
+alt + clik ( untuk menaruh mouse di lebih satu kata untuk edit kata)
+ctrl + p(@/#/:) (untuk membuka folder pada saat mengerjaka)
+ctr + shift+ o (untuk mencari code @index)
+ctrl+ tab / angka (untuk buka tab)
