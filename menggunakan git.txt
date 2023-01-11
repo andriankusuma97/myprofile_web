@@ -1,10 +1,18 @@
+di vs code bisa klik view terus klik terminal untuk menggunakan git
 git cd (nama file) {untuk masuk ke folder yang ingin dijadikan git}
 git cd E:/namafolder/"jika nama folder menggunakan spasi dan rumit" 
 git cd .. (atau) ../../ {untuk keluar ke folder sebelumnya}
+drag folder kedalam git / masuk ke folder terus klik kanan dan pilih git bash {jika ingin masuk ke folder yang di inginkan secara instan}
 git init {untuk menjadikan folder menjadi sebuah git}
 git add . {untuk menyimpan semua file/perubahan ke stagiing area di git sebelum di commit}
 git commit -m "pesan apa yang mau disampakain untuk menyimpan" {jika sudah di stagging area file harus di commit}
+git commit -am "pesan" {untuk menambahkan dan commit yang hanya di modif di dalam file}
 git log {jika ingin melihat apasaja perubahan commit yang telah di lakukan}
 git log -3 {untuk melihat perubahan 3 terakhir}
 git log --style.css {untuk melihat spesifikasi folder yang di ubah}
-git checkout (5digit commit pertama) {untuk menampilkan kembali file yang telah di hapus}
+git checkout (5digit commit pertama) {untuk menampilkan kembali file yang telah di hapus atau di ubah}
+git branch {untuk menampilkan cabang mana saja yang ada di dalam git}
+git branch (nama cabang) {membuat branch/cabang baru}
+git log --all --decorate --oneline --graph {untuk menampilkan grafik branch/cabang yang telah kita buat}
+alias graph="git log --all --decorate --oneline --graph" {untuk mempersingkat code jadi hanya menulis graph saja atau lainnya}
+git checkout (nama branch atau cabang) {untuk pindah kebranch yang kita inginkan}
