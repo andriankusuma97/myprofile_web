@@ -1,0 +1,10 @@
+git cd (nama file) {untuk masuk ke folder yang ingin dijadikan git}
+git cd E:/namafolder/"jika nama folder menggunakan spasi dan rumit" 
+git cd .. (atau) ../../ {untuk keluar ke folder sebelumnya}
+git init {untuk menjadikan folder menjadi sebuah git}
+git add . {untuk menyimpan semua file/perubahan ke stagiing area di git sebelum di commit}
+git commit -m "pesan apa yang mau disampakain untuk menyimpan" {jika sudah di stagging area file harus di commit}
+git log {jika ingin melihat apasaja perubahan commit yang telah di lakukan}
+git log -3 {untuk melihat perubahan 3 terakhir}
+git log --style.css {untuk melihat spesifikasi folder yang di ubah}
+git checkout (5digit commit pertama) {untuk menampilkan kembali file yang telah di hapus}
