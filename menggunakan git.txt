@@ -16,4 +16,11 @@ git branch (nama cabang) {membuat branch/cabang baru}
 git log --all --decorate --oneline --graph {untuk menampilkan grafik branch/cabang yang telah kita buat}
 alias graph="git log --all --decorate --oneline --graph" {untuk mempersingkat code jadi hanya menulis graph saja atau lainnya}
 git checkout (nama branch atau cabang) {untuk pindah kebranch yang kita inginkan}
+<<<<<<< HEAD
 jika three-ways marge maka akan ada comment dan mebuat cabang lurus baru perintah sama menggunakan {git marge (nama branch atau cabang)}
+=======
+penggabungan branch ada 2 yaitu fastforward dan three-ways Marge
+git marge (nama branch) {jika fastforwad maka akan menggabungkan file utama ke branch yang di tuju}
+git branch -d (namabranch) {jika sudah di marge maka sebaiknya branch/cabang yang tadi di hapus}
+git branch --merged {untuk melihat branch yang telah di gabung/marge}
+>>>>>>> belajargit
