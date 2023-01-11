@@ -16,3 +16,4 @@ git branch (nama cabang) {membuat branch/cabang baru}
 git log --all --decorate --oneline --graph {untuk menampilkan grafik branch/cabang yang telah kita buat}
 alias graph="git log --all --decorate --oneline --graph" {untuk mempersingkat code jadi hanya menulis graph saja atau lainnya}
 git checkout (nama branch atau cabang) {untuk pindah kebranch yang kita inginkan}
+jika three-ways marge maka akan ada comment dan mebuat cabang lurus baru perintah sama menggunakan {git marge (nama branch atau cabang)}
