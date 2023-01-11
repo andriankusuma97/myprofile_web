@@ -30,5 +30,10 @@ git remote add origin/bebas (alamat repository menggunakan https) {untuk menghub
 git remote -v {untuk mengecek alamat repo}
 git push -u origin master {awal untuk memasukkan file kita ke github}
 git push {setalah git sudah masuk github dan menambahkan editan atau tambahan yang sudah kita buat baru}
+git fetch {untuk mengecek github sudah sampe mana atu memperbaharui data dari github}
+git pull {utnuk mengambil file tambahan dari github jika terjadi konflik dan kita edit kemudaian kita commit ulang stelah itu kita push} {maka akan ada marge pada github jika kita melihat graph}
+
+
+
 
 
