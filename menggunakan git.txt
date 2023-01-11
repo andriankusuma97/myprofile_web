@@ -20,4 +20,8 @@ penggabungan branch ada 2 yaitu fastforward dan three-ways Marge
 git marge (nama branch) {jika fastforwad maka akan menggabungkan file utama ke branch yang di tuju}
 git branch -d (namabranch) {jika sudah di marge maka sebaiknya branch/cabang yang tadi di hapus}
 git branch --merged {untuk melihat branch yang telah di gabung/marge}
->>>>>>> belajargit
+>>>>>>>>> untuk three-ways Marge
+git marge (nama branch) {maka akan ada commit di vscode di exit saja}
+git branch -D (namabranch) {menggunakan D besar untuk menghapus branch/cabang yang belum di gabung}
+>>>>>>. untuk memasukkan git ke github
+
